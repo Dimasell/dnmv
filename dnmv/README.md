@@ -4,7 +4,7 @@
   <br />
   <br />
   
-  <h2 align="center">Filmlane - Movie website</h2>
+  <h2 align="center">DNMovie - Movie website</h2>
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![DNMV Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
