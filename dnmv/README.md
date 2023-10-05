@@ -1,11 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/filmlane)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/filmlane?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/filmlane?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/G-mEhvhWyw8?style=social)](https://youtu.be/G-mEhvhWyw8)
-
+[![github](https://img.shields.io/twitter/follow/0xorgbwh_?style=social)]
   <br />
   <br />
   
@@ -15,7 +10,7 @@
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+  <a href="[https://github.com/Dimasell"]><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -49,7 +44,7 @@ git clone https://github.com/codewithsadee/filmlane.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/0xorgbwh).
 
 ### License
 
