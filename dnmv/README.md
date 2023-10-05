@@ -4,8 +4,6 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
-
   <h2 align="center">Filmlane - Movie website</h2>
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
@@ -28,18 +26,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Filmlane** locally, run this command on your git bash:
+To run **DNMV** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
+sudo git clone https://github.com/Dimasell/dnmv.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/filmlane.git
+git clone https://github.com/Dimasell/dnmv.git
 ```
 
 ### Contact
